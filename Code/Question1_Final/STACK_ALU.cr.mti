@@ -1,0 +1,8 @@
+C:/Users/Hosein/Desktop/Question1_Final/STACK_BASED_ALU.v {1 {vlog -work work {C:\Users\Hosein\Desktop\Question1_Final\STACK_BASED_ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module stack_alu
+
+Top level modules:
+	stack_alu
+
+} {} {}}

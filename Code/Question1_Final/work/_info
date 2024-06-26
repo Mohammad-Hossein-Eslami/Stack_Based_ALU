@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Hosein\Desktop\All_Uni\Fourth_Semester\DSD\HWs\HW4\Code
+vstack_alu
+!i10b 1
+Z1 !s100 hJ[7o8F_>TLGPlmn;<Z;71
+Z2 IVTWZ2JaC12MLeNSh]@AAb3
+Z3 VE328BE=S7JD=KQEJKkbT>3
+Z4 dC:\Users\Hosein\Desktop\Question1_Final
+Z5 w1719425647
+Z6 8C:\Users\Hosein\Desktop\Question1_Final\STACK_BASED_ALU.v
+Z7 FC:\Users\Hosein\Desktop\Question1_Final\STACK_BASED_ALU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1719429513.307000
+!s107 C:\Users\Hosein\Desktop\Question1_Final\STACK_BASED_ALU.v|
+Z9 !s90 -reportprogress|300|-work|work|C:\Users\Hosein\Desktop\Question1_Final\STACK_BASED_ALU.v|
+!s101 -O0
+Z10 o-work work -O0
+vstack_based_ALU_tb
+Z11 Ia=QMT^S6N1KaiA>3V@6Xn0
+Z12 Vn4ZZW>7]WXKEI5=VY7gU=1
+R4
+Z13 w1719429505
+Z14 8C:\Users\Hosein\Desktop\Question1_Final\tb.v
+Z15 FC:\Users\Hosein\Desktop\Question1_Final\tb.v
+L0 1
+R8
+r1
+31
+Z16 !s90 -reportprogress|300|-work|work|C:\Users\Hosein\Desktop\Question1_Final\tb.v|
+R10
+Z17 nstack_based_@a@l@u_tb
+!i10b 1
+Z18 !s100 i:ShRZaE<=kP`9RX8aT]23
+!s85 0
+Z19 !s108 1719429513.242000
+Z20 !s107 C:\Users\Hosein\Desktop\Question1_Final\tb.v|
+!s101 -O0
