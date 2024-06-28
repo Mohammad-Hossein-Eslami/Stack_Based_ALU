@@ -19,7 +19,7 @@ Later, you need to compile the Verilog files which are in the project.
 ![Screenshot 2024-06-26 231029](https://github.com/Mohammad-Hossein-Eslami/Stack_Based_ALU/assets/119133038/6816cd19-aae5-4fdf-8000-fadb625cd47c)
 
 
-When your compiling is finished you need to choose the right module to simulate on
+When your compiling is finished you need to choose the right module to simulate on. In order to accomplish this, you need to go to the simulation section in the top bar and select start simulation. If you do this, a page like the one in the image pops up for you. 
 ![Screenshot 2024-06-26 231150](https://github.com/Mohammad-Hossein-Eslami/Stack_Based_ALU/assets/119133038/47791634-f18a-4a1e-9dad-61d2132c7379)
 
 
