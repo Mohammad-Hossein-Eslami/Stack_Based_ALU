@@ -13,7 +13,7 @@ For this project, we used the following tools to implement our model
 - ModelSim
 
 ## Implementation Details
-To better understand how this model works and what the results are when running the testbench on it, visit Report.pdf to get a completely detailed explanation of the implementation and the results, but to get an overall view of the code, the code has one module that takes an input, an opcode and has an output. This ALU can perform 4 different operations, Adding, Multiplying, Pushing, Poping. The whole code works based on an always block and a switch case that decides the operation based on the opcode. Once entered into a case, the necessary actions are performed so that our stack gets updated or the expected result is shown in the output of the module. 
+To better understand how this model works and what the results are when running the testbench on it, visit Report.pdf to get a completely detailed explanation of the implementation and the results. You can also visit the Code folder to see the whole implementation, but to get an overall view of the code, the code has one module that takes an input, an opcode and has an output. This ALU can perform 4 different operations, Adding, Multiplying, Pushing, Poping. The whole code works based on an always block and a switch case that decides the operation based on the opcode. Once entered into a case, the necessary actions are performed so that our stack gets updated or the expected result is shown in the output of the module. 
 Below is an overall view of the main part of the code. 
 ![image](https://github.com/Mohammad-Hossein-Eslami/Stack_Based_ALU/assets/119133038/8487b7e4-57e4-48a0-8e0d-733e5c661db6)
 
