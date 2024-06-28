@@ -1,4 +1,3 @@
-![image](https://github.com/Mohammad-Hossein-Eslami/Stack_Based_ALU/assets/119133038/0a413cb8-8b73-49ce-a61d-6d672d266dab)# Stack_Based_ALU
 ![download (3)](https://github.com/Mohammad-Hossein-Eslami/Stack_Based_ALU/assets/119133038/7755e1ec-80e7-4104-9b9d-a6bc5fbb92b2)
 
 
