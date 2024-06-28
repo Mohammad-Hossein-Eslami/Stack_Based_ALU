@@ -19,8 +19,11 @@ Later, you need to compile the Verilog files which are in the project.
 When your compiling is finished you need to choose the right module to simulate on
 ![image](https://github.com/Mohammad-Hossein-Eslami/Stack_Based_ALU/assets/119133038/9a50ff16-352c-4e03-94a8-adcd8ca7f13b)
 
+## Results
 After you choose the right module you will enter a space just like the image below. From there, you can do multiple things by using the waveform and the transcript to check your results.
 ![image](https://github.com/Mohammad-Hossein-Eslami/Stack_Based_ALU/assets/119133038/3fb837cc-dbe7-47ee-ba85-7ba6ad794cf8)
+
+In the end, you can also choose the signals to be shown on a waveform, you have to select the signals from 
 
 ## Related Links
 - [VScode](https://code.visualstudio.com/download)
