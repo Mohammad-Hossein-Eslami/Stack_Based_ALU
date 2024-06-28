@@ -22,11 +22,14 @@ When your compiling is finished you need to choose the right module to simulate 
 
 
 ## Results
-After you choose the right module you will enter a space just like the image below. From there, you can do multiple things by using the waveform and the transcript to check your results.
+After choosing the right module, you will enter a space like the image below. From there, you can do multiple things by using the waveform and the transcript to check your results.
 ![image](https://github.com/Mohammad-Hossein-Eslami/Stack_Based_ALU/assets/119133038/3fb837cc-dbe7-47ee-ba85-7ba6ad794cf8)
 
-In the end, you can also choose the signals to be shown on a waveform, you have to select the signals from the Objects panel and transfer them to the waveform. After this and by setting the time you want to simulate your program, you simulate your code and view the waveform. 
+In the end, you can also choose the signals to be shown on a waveform, you have to select the signals from the Objects panel and transfer them to the waveform. After this by setting the time you want to simulate your program, you simulate your code and view the waveform. 
 ![image](https://github.com/Mohammad-Hossein-Eslami/Stack_Based_ALU/assets/119133038/e881e6e8-d57b-4984-91ad-5656dbb2ad9a)
+
+
+In the end, if your code is synthesizable you can use tools such as Quartus to get different reports from your code. These reports include the features of the circuit you designed such as the maximum clock frequency
 
 
 ## Related Links
