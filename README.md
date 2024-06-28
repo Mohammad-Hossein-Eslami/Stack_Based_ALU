@@ -2,7 +2,7 @@
 ![download (3)](https://github.com/Mohammad-Hossein-Eslami/Stack_Based_ALU/assets/119133038/7755e1ec-80e7-4104-9b9d-a6bc5fbb92b2)
 
 
-In this repository, you can see the code to a stack_based_alu that performs arithmetic operations as well as basic stack operations in Verilog.
+In this repository, you can see the code to a stack_based_alu that performs arithmetic operations using a stack, as well as basic stack operations in Verilog.
 
 
 
